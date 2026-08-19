@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76603482118",
+    "project_id": "incuevue-app",
+    "storage_bucket": "incuevue-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76603482118:android:47b7d7467ea5e9d9dd6387",
+        "android_client_info": {
+          "package_name": "com.example.incubvue_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPrPmfCbJ_h7Gfqff03ThgRJ1z-ltcGnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

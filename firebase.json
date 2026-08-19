@@ -1,0 +1,41 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "incuevue-app",
+          "appId": "1:76603482118:android:47b7d7467ea5e9d9dd6387",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "incuevue-app",
+          "configurations": {
+            "android": "1:76603482118:android:47b7d7467ea5e9d9dd6387",
+            "ios": "1:76603482118:ios:9716c41563d5dd6add6387",
+            "macos": "1:76603482118:ios:9716c41563d5dd6add6387",
+            "web": "1:76603482118:web:4125550cd2b6cddbdd6387",
+            "windows": "1:76603482118:web:608033023c2324f9dd6387"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        ".env"
+      ]
+    }
+  ]
+}
