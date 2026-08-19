@@ -46,3 +46,6 @@ app.*.map.json
 functions/.env
 functions/node_modules/
 firmware/esp32_incubator/secrets.h
+
+# Too large for GitHub (>100 MB)
+oks.zip
